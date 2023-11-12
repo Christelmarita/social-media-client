@@ -1,4 +1,7 @@
 # social-media-client
+[![Automated E2E Testing](https://github.com/Christelmarita/social-media-client/actions/workflows/e2e-test.yml/badge.svg?branch=workflow)](https://github.com/Christelmarita/social-media-client/actions/workflows/e2e-test.yml)
+[![Automated Unit Testing](https://github.com/Christelmarita/social-media-client/actions/workflows/unit-test.yml/badge.svg?branch=workflow)](https://github.com/Christelmarita/social-media-client/actions/workflows/unit-test.yml)
+[![Code Review](https://github.com/Christelmarita/social-media-client/actions/workflows/gpt.yml/badge.svg?branch=workflow)](https://github.com/Christelmarita/social-media-client/actions/workflows/gpt.yml)
 
 ## Description
 This project was forked from Noroff and is a social media application that allows users to create an account with proper credentials and log in.
